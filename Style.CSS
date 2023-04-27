@@ -1,0 +1,10 @@
+.Fondo{
+background-image: url(IMG/1.jpg);
+ margin: auto;
+padding: auto;
+}
+
+.nav-link{
+
+    text-align: center;
+}
